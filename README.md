@@ -158,14 +158,5 @@ DROP COLUMN row_num;
 
 The raw layoffs dataset was transformed into a cleaner, standardized, and analysis-ready table while preserving the original source table through the use of a staging workflow.
 
-## Next Step
+Dataset Source: World Layoffs 2022 — Kaggle
 
-The cleaned dataset can be used for exploratory analysis such as:
-
-* Layoffs by year
-* Layoffs by industry
-* Companies with the largest layoffs
-* Layoff trends over time
-* Percentage of workforce laid off
-* Funding versus layoffs
-* Country-level layoff analysis
